@@ -1,0 +1,90 @@
+[
+  {
+    "project": "ram",
+    "idea": "comedy",
+    "mode": "screenplay",
+    "output": "\nINT. ROOM - DAY\n\nA short scene inspired by: comedy\n\nA: (quiet) This is the beginning.\nB: (soft) And this is the response.\n\nThey move toward a decision, the stakes quietly rising.\n\nCUT TO:\n",
+    "temperature": 0.8,
+    "max_tokens": 800
+  },
+  {
+    "project": "ram",
+    "idea": "horror",
+    "mode": "characters",
+    "output": "Name: Protagonist 1 (Horror)\nAge: 36\nArc: Starts as protagonist connected to 'Horror', ends transformed by conflict related to the idea.\nLogline: Protagonist 1 (Horror) faces a choice tied to the idea 'horror'. This decision defines the story's emotional core.\n\nName: Antagonist 2 (Horror)\nAge: 41\nArc: Starts as antagonist connected to 'Horror', ends transformed by conflict related to the idea.\nLogline: Antagonist 2 (Horror) faces a choice tied to the idea 'horror'. This decision defines the story's emotional core.\n\nName: Supporting 3 (Horror)\nAge: 46\nArc: Starts as supporting connected to 'Horror', ends transformed by conflict related to the idea.\nLogline: Supporting 3 (Horror) faces a choice tied to the idea 'horror'. This decision defines the story's emotional core.\n",
+    "temperature": 0.8,
+    "max_tokens": 800
+  },
+  {
+    "project": "default",
+    "idea": "A lonely lighthouse keeper discovers a secret message in a bottle.",
+    "mode": "plan",
+    "output": "\nProduction Plan for: A lonely lighthouse keeper discovers a secret message in a bottle.\n\n- Budget (estimate): $50k - $250k (depends on scale)\n- Key Crew: Director, DoP, Producer, Production Designer, Sound Mixer\n- Schedule: 10 shooting days (2-3 locations per day)\n- Locations: 3 primary interiors, 2 exteriors\n\nNotes: Start with a 2-day prep and 2-day post shoot for editing and sound.\n",
+    "temperature": 0.5,
+    "max_tokens": 300
+  },
+  {
+    "project": "default",
+    "idea": "A lonely lighthouse keeper discovers a secret message in a bottle.",
+    "mode": "characters",
+    "output": "Name: Protagonist 1 (A)\nAge: 33\nArc: Starts as protagonist connected to 'A', ends transformed by conflict related to the idea.\nLogline: Protagonist 1 (A) faces a choice tied to the idea 'A lonely lighthouse keeper discovers a s'. This decision defines the story's emotional core.\n\nName: Antagonist 2 (A)\nAge: 38\nArc: Starts as antagonist connected to 'A', ends transformed by conflict related to the idea.\nLogline: Antagonist 2 (A) faces a choice tied to the idea 'A lonely lighthouse keeper discovers a s'. This decision defines the story's emotional core.\n\nName: Supporting 3 (A)\nAge: 43\nArc: Starts as supporting connected to 'A', ends transformed by conflict related to the idea.\nLogline: Supporting 3 (A) faces a choice tied to the idea 'A lonely lighthouse keeper discovers a s'. This decision defines the story's emotional core.\n",
+    "temperature": 0.5,
+    "max_tokens": 300
+  },
+  {
+    "project": "default",
+    "idea": "A lonely lighthouse keeper discovers a secret message in a bottle.",
+    "mode": "screenplay",
+    "output": "\nINT. ROOM - DAY\n\nA short scene inspired by: A lonely lighthouse keeper discovers a secret message in a bottle.\n\nA: (quiet) This is the beginning.\nB: (soft) And this is the response.\n\nThey move toward a decision, the stakes quietly rising.\n\nCUT TO:\n",
+    "temperature": 0.5,
+    "max_tokens": 300
+  },
+  {
+    "project": "ram",
+    "idea": "comedy",
+    "mode": "characters",
+    "output": "Name: Protagonist 1 (Comedy)\nAge: 36\nArc: Starts as protagonist connected to 'Comedy', ends transformed by conflict related to the idea.\nLogline: Protagonist 1 (Comedy) faces a choice tied to the idea 'comedy'. This decision defines the story's emotional core.\n\nName: Antagonist 2 (Comedy)\nAge: 41\nArc: Starts as antagonist connected to 'Comedy', ends transformed by conflict related to the idea.\nLogline: Antagonist 2 (Comedy) faces a choice tied to the idea 'comedy'. This decision defines the story's emotional core.\n\nName: Supporting 3 (Comedy)\nAge: 46\nArc: Starts as supporting connected to 'Comedy', ends transformed by conflict related to the idea.\nLogline: Supporting 3 (Comedy) faces a choice tied to the idea 'comedy'. This decision defines the story's emotional core.\n",
+    "temperature": 0.8,
+    "max_tokens": 800
+  },
+  {
+    "project": "ram",
+    "idea": "horror",
+    "mode": "characters",
+    "output": "Name: Protagonist 1 (Horror)\nAge: 36\nArc: Starts as protagonist connected to 'Horror', ends transformed by conflict related to the idea.\nLogline: Protagonist 1 (Horror) faces a choice tied to the idea 'horror'. This decision defines the story's emotional core.\n\nName: Antagonist 2 (Horror)\nAge: 41\nArc: Starts as antagonist connected to 'Horror', ends transformed by conflict related to the idea.\nLogline: Antagonist 2 (Horror) faces a choice tied to the idea 'horror'. This decision defines the story's emotional core.\n\nName: Supporting 3 (Horror)\nAge: 46\nArc: Starts as supporting connected to 'Horror', ends transformed by conflict related to the idea.\nLogline: Supporting 3 (Horror) faces a choice tied to the idea 'horror'. This decision defines the story's emotional core.\n",
+    "temperature": 0.8,
+    "max_tokens": 800
+  },
+  {
+    "project": "ram",
+    "idea": "horror",
+    "mode": "screenplay",
+    "output": "\nINT. ROOM - DAY\n\nA short scene inspired by: horror\n\nA: (quiet) This is the beginning.\nB: (soft) And this is the response.\n\nThey move toward a decision, the stakes quietly rising.\n\nCUT TO:\n",
+    "temperature": 0.8,
+    "max_tokens": 800
+  },
+  {
+    "project": "ram",
+    "idea": "horror",
+    "mode": "screenplay",
+    "output": "\nINT. ROOM - DAY\n\nA short scene inspired by: horror\n\nA: (quiet) This is the beginning.\nB: (soft) And this is the response.\n\nThey move toward a decision, the stakes quietly rising.\n\nCUT TO:\n",
+    "temperature": 1,
+    "max_tokens": 800
+  },
+  {
+    "project": "ram",
+    "idea": "horror",
+    "mode": "plan",
+    "output": "\nProduction Plan for: horror\n\n- Budget (estimate): $50k - $250k (depends on scale)\n- Key Crew: Director, DoP, Producer, Production Designer, Sound Mixer\n- Schedule: 10 shooting days (2-3 locations per day)\n- Locations: 3 primary interiors, 2 exteriors\n\nNotes: Start with a 2-day prep and 2-day post shoot for editing and sound.\n",
+    "temperature": 1,
+    "max_tokens": 800
+  },
+  {
+    "project": "ram",
+    "idea": "romatic",
+    "mode": "plan",
+    "output": "\nProduction Plan for: romatic\n\n- Budget (estimate): $50k - $250k (depends on scale)\n- Key Crew: Director, DoP, Producer, Production Designer, Sound Mixer\n- Schedule: 10 shooting days (2-3 locations per day)\n- Locations: 3 primary interiors, 2 exteriors\n\nNotes: Start with a 2-day prep and 2-day post shoot for editing and sound.\n",
+    "temperature": 1,
+    "max_tokens": 800
+  }
+]
